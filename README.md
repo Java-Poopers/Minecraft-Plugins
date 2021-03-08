@@ -5,7 +5,7 @@ Each Folder Contains A .jar File Of Each Plugin And Project Files Of The Plugin.
 ## Contact
 Please Give Us Credit If this helped You. Most Of The Credit Goes To My Friend @Zekter#8939 (Discord) And Me @NoName!#4213 (Discord)
 ## Contributing
-Pull Requests And Feedback Are Welcome. For Major Changes, Please Contact Us To Discuss What You Would Like To Change Or If There Are Any Issues With The Code
+Pull Requests And Feedback Are Welcome. For Major Changes, Please Contact Us To Discuss What You Would Like To Change
 
 
 
