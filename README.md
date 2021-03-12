@@ -1,5 +1,5 @@
 # Minecraft-Plugins
-Custom Minecraft Plugins Made by Me And My Friend
+Custom Minecraft Plugins Made By Me And My Friend
 ## Usage
 Each Folder Contains A .jar File Of Each Plugin And Project Files Of The Plugin. Inside The Plugin Folder There Is A More Detailed And Explaining README.md Usage
 ## Contact
